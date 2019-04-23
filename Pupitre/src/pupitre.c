@@ -2,7 +2,7 @@
 #include <time.h>
 #include<stdio.h>
 
-int main(void)
+int pupitre(void)
 {
 	int saisie;
 	int ingame = 0;
