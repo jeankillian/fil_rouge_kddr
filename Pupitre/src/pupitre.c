@@ -42,9 +42,7 @@ int main(void)
 	while(ingame == 1)
 	{
 		printf("DEBUT DE CE JEU DE CES MORTS !!! \n");
-		printf("1 = 1 joueur \n"
-				"2 = 2 joueurs \n"
-				"0 = stop \n"
+		printf("0 = stop \n"
 				"8 = haut \n"
 				"4 = gauche \n"
 				"6 = droite \n"
